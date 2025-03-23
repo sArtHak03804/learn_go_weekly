@@ -1,4 +1,8 @@
-hello world!
-Values
-Variables
-Constants
+Basic Concepts
+Setting up Go environment
+Variables and constants
+Data types (int, float, bool, string)
+Arrays, slices, and maps
+Control structures (if, for, switch)
+Functions (declaration, variadic, named returns)
+Pointers (* and &)
