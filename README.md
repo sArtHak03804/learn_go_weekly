@@ -1,4 +1,4 @@
-<h1>Learn Go with Sarthak! 🚀</h1> 
+<h1>Learn Go 🚀</h1> 
 <p> This repository is dedicated to learning and exploring the Go programming language. It includes practical examples, concept demonstrations, and small projects to help beginners and intermediate developers enhance their understanding of Go. </p>
  <hr>
   <h2>📖 Course Content</h2> 
