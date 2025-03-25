@@ -1,4 +1,4 @@
-<h1>Learn Go with Sarthak! 🚀</h1> 
+<h1>Learn Go 🚀</h1> 
 <p> This repository is dedicated to learning and exploring the Go programming language. It includes practical examples, concept demonstrations, and small projects to help beginners and intermediate developers enhance their understanding of Go. </p>
  <hr>
   <h2>📖 Course Content</h2> 
@@ -36,7 +36,7 @@
    <hr> 
    <h2>💻 How to Use</h2> 
    <ul> 
-   <li> Clone the repository: <pre><code>git clone https://github.com/your-username/learn_go.git cd learn_go</code></pre> </li> 
+   <li> Clone the repository: <pre><code>git clone https://github.com/your-username/learn_go.git </code></pre> </li> 
       <li>redirect to directory <pre><code>cd learn_go</code></pre> </li> 
 
    <li> Uncomment a function in <code>main.go</code> to run it: <pre><code>// Uncomment the required function to run Ex: hello() then type in terminal: go run main.go</code></pre> 
