@@ -52,7 +52,7 @@ func main() {
 
 	// Medium:
 	// convertTemperature()  //→ Convert temperatures between Celsius, Fahrenheit, and Kelvin.
-	// bankAccountManager()  //→ Simulate a basic bank account management system.
+	 bankAccountManager()  //→ Simulate a basic bank account management system.
 
 	// Hard:
 	// toDoListApp()         //→ Create a basic to-do list app to manage tasks dynamically with persistence.
