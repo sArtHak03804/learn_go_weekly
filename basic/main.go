@@ -43,6 +43,10 @@ func main() {
 	// Medium:
 	// namedReturns()  //→ Learn about named return values and how they simplify return statements.
 
+	// Multiple Return Values
+	// multiple_return_values() //→ Understand how to return multiple values from a function.
+	// closures() //→ Explore closures and how they capture variables from their surrounding context.
+
 	// Practice Project:
 	// These projects range in difficulty and are designed to integrate multiple concepts.
 
@@ -52,7 +56,7 @@ func main() {
 
 	// Medium:
 	// convertTemperature()  //→ Convert temperatures between Celsius, Fahrenheit, and Kelvin.
-	 bankAccountManager()  //→ Simulate a basic bank account management system.
+	//  bankAccountManager()  //→ Simulate a basic bank account management system.
 
 	// Hard:
 	// toDoListApp()         //→ Create a basic to-do list app to manage tasks dynamically with persistence.
