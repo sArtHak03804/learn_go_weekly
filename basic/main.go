@@ -38,7 +38,7 @@ func main() {
 	// Learn how to structure reusable code with functions.
 
 	// Easy:
-	// functionsDemo() //→ Dive into basic functions, variadic functions, and anonymous functions.
+	// functions() //→ Dive into basic functions, variadic functions, and anonymous functions.
 
 	// Medium:
 	// namedReturns()  //→ Learn about named return values and how they simplify return statements.
