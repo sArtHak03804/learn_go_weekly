@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func arrays() {
-	var arr [5]int = [5]int{1, 2, 3, 4, 5}
+	var arr [5]int = [5]int{1, 2, 3, 78, 5}
 	fmt.Println("Array:", arr)
 
 	// Traversing the array
