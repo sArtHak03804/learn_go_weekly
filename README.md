@@ -36,7 +36,7 @@
    <hr> 
    <h2>💻 How to Use</h2> 
    <ul> 
-   <li> Clone the repository: <pre><code>git clone https://github.com/sArtHak03804/learn_go_weekly.git </code></pre> </li> 
+   <li> Clone the repository: <pre><code>git clone https://github.com/sArtHak03804/learn_go.git </code></pre> </li> 
       <li>redirect to directory <pre><code>cd learn_go</code></pre> </li> 
 
    <li> Uncomment a function in <code>main.go</code> to run it: <pre><code>// Uncomment the required function to run Ex: hello() then type in terminal: go run main.go</code></pre> 
